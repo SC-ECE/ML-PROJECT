@@ -14,7 +14,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 # Registration Link for Synapse 1.0
 https://synapse1-0.vercel.app/
 
-# Rules and Regulations of contribution in Web-Project Repository
+  # Rules and Regulations of contribution in ML-Project Repository
 
 - Folder Name = Project Name.
 - Upload the .ipynb file in a folder with a readme file.
