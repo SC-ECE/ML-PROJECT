@@ -17,7 +17,7 @@ https://synapse1-0.vercel.app/
   # Rules and Regulations of contribution in ML-Project Repository
 
 - Folder Name = Project Name.
-- Upload the .ipynb file in a folder with a readme file.
+- Upload the .ipynb file in a folder and You have to make a readme file and attach the ticket in your contributed folder
 
 # Rewards :
 
