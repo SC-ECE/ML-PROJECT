@@ -9,9 +9,8 @@ First of all the data was scraped from Quikr.com (https://quikr.com)
 
 The data was cleaned (it was super unclean 🙂 ) and analysed.
 
-Then a Linear Regression model was built on top of it which had 0.92 R2_score.
+Then a `XGBRegression` model was built on top of it which had 0.88 R2_score.
 
-we used the `XGBRegression` model to perform predictions.
 
 ### Overview :-
 
