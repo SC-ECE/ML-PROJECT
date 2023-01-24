@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Machine Learning Model which is used to predict the rate of Gold and give a result of Actual and Predicted Price in Graph.Here I have used Random Forest Algorithm.
+This is a Machine Learning Model which is used to predict the rate of Gold and give a result of Actual and Predicted Price in Graph.Here I have used Random Forest Regressor Algorithm.
 
 ## OverView:-
 
